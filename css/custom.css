@@ -125,9 +125,9 @@ a{
 }
 .feature_sub{
     color:#000;
-    font-size: 18px;
+    font-size: 23px;
     line-height: 25px;
-    font-weight: 400;
+    font-weight: 200;
 }
 
 .btn-main{
@@ -193,7 +193,7 @@ a{
 
 #service,#pricing_table,#about,#team,#blog,#contact,#testimonial,#portfolio,#video-fact,#about-details {
      padding-bottom: 130px;
-     padding-top:90px;
+     padding-top:65px;
 }
 section{
     /*padding:50px 0px;*/
@@ -347,7 +347,7 @@ ul.navbar-nav > .active > a{
 /* Carousel Slider
 ============================================== */
 #slider_part{
-   height: 800px;
+   height: 670px;
    width: 100%;
    overflow:hidden;
 }
