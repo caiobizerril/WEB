@@ -171,8 +171,8 @@
 	}
 	/*main Slider*/
 	#slider_part {
-    	height: 250px;
-    	margin-top: 75px;
+    	height: 210px;
+    	margin-top: 25px;
 	}
 	.carousel-caption {
     	top: 20%;
@@ -183,7 +183,7 @@
 	.carousel-caption p {
 	    font-size: 12px;
 	    line-height: 14px;
-	    margin-top: 20px;
+	    margin-top: 15px;
 	}
 	.carousel-indicators li {
 	    width: 15px !important;
@@ -194,7 +194,7 @@
 	}
 	.carousel-indicators {
 	    left: 37%;
-	    bottom: 9%;
+	    bottom: 19%;
 	}
 	
 	.slides-control .carousel-control i {
