@@ -386,7 +386,7 @@ ul.navbar-nav > .active > a{
     text-transform: uppercase;
 }
 .carousel-caption img{
-    border:2px solid#fff;
+ /* border:2px solid#fff; */
     padding:10px 10px 10px 20px;
 }
 .line{
