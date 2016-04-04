@@ -387,8 +387,12 @@ ul.navbar-nav > .active > a{
 }
 .carousel-caption img{
  /* border:2px solid#fff; */
-    padding:10px 10px 10px 20px;
-}
+    padding:5px 5px 5px 10px;
+     height:120px;
+	width:8em;
+	}
+
+	
 .line{
    width: 100px;
     height: 5px;
@@ -443,7 +447,8 @@ ul.navbar-nav > .active > a{
     width: 10%;
     left: 45%;
     margin:0 auto;
-    bottom:30%;
+	margin-bottom: 4px;
+	bottom:30%;
 }
 
 .carousel-indicators li{
